@@ -1,6 +1,11 @@
-### Hey there, nice to see you here ! <img src="https://github.com/ViniciusLavrador/ViniciusLavrador/blob/main/wave.gif?raw=true" width="25px">
+<h1 align="center">
+    Hey there, nice to see you here !
+    <img src="https://github.com/ViniciusLavrador/ViniciusLavrador/blob/main/wave.gif?raw=true" width="25px">
+</h1>
 
-<p align="center">This introduction page is currently a <b>Work In Progress</b>, please come back soon and check it out !</p>
+<p align="center">
+    This introduction page is currently a <b>Work In Progress</b>, please come back soon and check it out !
+</p>
 
 <p align="center">
     <image width="300" src="https://media1.giphy.com/media/xlVvWxyeUJsDcHPMsO/giphy.gif"/>
