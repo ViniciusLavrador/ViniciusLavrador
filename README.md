@@ -1,6 +1,5 @@
 <h1 align="center">
     Hey there, nice to see you here !
-    <img src="https://github.com/ViniciusLavrador/ViniciusLavrador/blob/main/wave.gif?raw=true" width="25px">
 </h1>
 
 <p align="center">
